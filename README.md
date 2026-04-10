@@ -2,7 +2,7 @@
 
 🚀 Live Demo
 
-🔗 Play Dice Game
+🔗 [Play Dice Game](https://vercel.com/twniazis-projects/dice_game)
 
 📌 Project Overview:
 
